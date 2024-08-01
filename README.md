@@ -1,1 +1,1 @@
-# MegaScatterHW
+# MegaScatter Hardware
